@@ -890,7 +890,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 16, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_header.scss */
   .header-area .main-header-area {
-    padding: 10px 0px;
+    padding: 18px 0px;
     background: #2C2C2C;
   }
 }
@@ -1360,9 +1360,9 @@ h3 {
 
 /* line 8, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
 .slider_area .single_slider {
-  position: relative;
+  position: cover;
   z-index: 0;
-  height: 950px;
+  height: 1000px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
