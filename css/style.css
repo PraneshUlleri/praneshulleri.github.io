@@ -1485,9 +1485,12 @@ margin-left: auto;
   /* line 74, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
   .slider_area .single_slider::before {
     width: 314px;
-    height: 300px;
+    height: 253px;
     content: '';
     background-size: cover;
+    margin-left: 135px;
+    margin-right: 341px;
+}
   }
 }
 
@@ -1534,7 +1537,8 @@ margin-left: auto;
 @media (max-width: 767px) {
   /* line 8, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
   .slider_area .single_slider {
-    height: 500px;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
   }
 }
 
