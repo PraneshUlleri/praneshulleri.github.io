@@ -1537,7 +1537,7 @@ margin-left: auto;
 @media (max-width: 767px) {
   /* line 8, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
   .slider_area .single_slider {
-    width: -webkit-fill-available;
+    width: auto;
     height: auto;
   }
 }
