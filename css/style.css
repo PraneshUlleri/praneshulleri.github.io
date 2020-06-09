@@ -4197,7 +4197,7 @@ h6 {
 
 /* line 353, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
 .progress-table-wrap {
-  overflow-x: scroll;
+  overflow-x: hidden;
 }
 
 /* line 357, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
@@ -5112,7 +5112,7 @@ h6 {
 
 /* line 1089, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
 .section-top-border {
-  padding: 50px 0;
+  padding: 50px 46px  ;
   border-top: 1px dotted #eee;
 }
 
