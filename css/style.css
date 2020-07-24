@@ -4319,13 +4319,14 @@ h6 {
   background-color: #e66686;
 }
 
-/* line 441, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
+/* line 441, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss     width: 557px;*/
 .single-gallery-image {
   margin-top: 30px;
   background-repeat: no-repeat !important;
   background-position: center center !important;
   background-size: cover !important;
-  height: 432px;
+  height: 316px;
+
 }
 
 /* line 449, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_elements.scss */
